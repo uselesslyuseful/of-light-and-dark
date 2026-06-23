@@ -1,3 +1,5 @@
+#note to self: add actual visuals this is the worst visuals i've had and my last project was nothing but trees
+
 import pygame
 from pygame.locals import *
 import random
